@@ -542,6 +542,8 @@ app.listen(port, () => {
 ### /1 คือหมายเลข ID ที่ต้องการ
 
 ### บันทึกผลลัพธ์การ Get ข้อมูลโดยระบุ ID
+![10 2](https://github.com/user-attachments/assets/20226e2c-0c4b-48fe-9067-97a2379739d2)
+
 
 ![รูปผลลัพธ์การ Get ข้อมูลโดยระบุ ID](images path/image.png)
 
@@ -554,6 +556,8 @@ app.listen(port, () => {
 ### 8.1 comment จะยังไม่ถูกปรับปรุงแก้ไข ให้ทำการแก้ไขโค้ดส่วนของการ update แล้วรันโปรแกรมใหม่อีกครั้งเพื่อทดสอบการแก้ไข
 
 ### บันทึกผลลัพธ์การ PUT เพื่อแก้ไขข้อมูล (ข้อมูล comment จะต้องไม่เป็นค่า null)
+![10 3](https://github.com/user-attachments/assets/0669074d-9795-48ed-a1be-6a6b4f964641)
+
 
 ![รูปผลลัพธ์การ PUT ข้อมูล](images path/image.png)
 
@@ -569,6 +573,8 @@ app.listen(port, () => {
 ![ผลการลบข้อมูล](images/postman-deleted-with-status.png)
 
 ### บันทึกผลลัพธ์การ DELETE with status
+![10 4](https://github.com/user-attachments/assets/ba18c143-ea8c-4cc3-8594-6548f9a95191)
+
 
 ![รูปผลลัพธ์การ Delete ข้อมูล](images path/image.png)
 
